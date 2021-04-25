@@ -52,7 +52,7 @@ Your final script should print the analysis to the terminal and export a text fi
 
 ## Background
 
-Welcome to Ichiban Ramen!
+Welcome to Ichiban Ramen! 
 
 Opening a ramen shop has always been your dream, and now it's finally been realized––you're closing out on your second year of sales! Like last year, you need to analyze your business's financial performance by cross-referencing your sales data with your internal menu data to figure out revenues and costs for the year.
 
