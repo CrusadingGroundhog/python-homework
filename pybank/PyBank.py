@@ -1,15 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
-
-
-cd desktop
-
-
-# In[29]:
-
-
 #Importing the CSV File.
 import os
 import csv
@@ -61,9 +52,6 @@ with open(output,"w") as new:
     new.write(f"Greatest Increase in Profits: {month_count[month_increase]} (${(str(increase))} USD)")
     new.write("\n")
     new.write(f"Greatest Decrease in Profits: {month_count[month_decrease]} (${(str(decrease))} USD)")
-
-
-# In[ ]:
 
 
 
